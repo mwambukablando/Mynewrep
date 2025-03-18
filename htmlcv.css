@@ -1,0 +1,68 @@
+.obo{
+	list-style-type: none;
+  margin-left: 22%;
+  padding: 0;
+  width: 20%;
+  background-color:gray;
+  position: fixed;
+  height: 100%;
+  margin-top: 40px;
+  border-radius: 20px;
+  text-align: center;
+}
+.odo{
+	list-style-type: none;
+	margin-left:40%;
+	width: 15%;
+	padding: 32px;
+	position: fixed;
+	background-color:#f1f1f1;
+	height: 100%;
+	margin-top: 90px;
+	border-radius: 20px;
+
+}
+.oko{
+	list-style-type: none;
+	margin-left:58%;
+	margin-right: ;
+	padding: 2px 32px;
+	background-color: gray;
+	position: fixed;
+	height: 100%;
+margin-top: 40px;
+border-radius: 20px;
+
+	
+}
+ul{
+	list-style-type: none;
+}
+.god{
+
+	text-align: center;
+	
+	
+}
+.io{
+	border-radius: 20px;
+	border: 2px	;
+}
+.pp{
+	font-weight:bold;
+}
+body{
+	background: url('quavo.jpg')no-repeat;
+	
+}
+.ll{
+	text-align: center;
+	margin-left: 25px;
+	border: 2px;
+	padding: 50px 50px;
+	font-weight: bold;
+	font-size: 1.8em;
+	
+
+}
+
